@@ -49,9 +49,9 @@ To compile the project, use the following commands:
 
 The implemented system successfully fulfills the specified objectives. Tiago adeptly navigates through the environment, achieving the predefined pose, and accurately detects movable obstacles using laser scan data.
 
-![Tiago Navigating to Pose_B](imgs/gazebo.png)
+![Tiago Navigating to Pose_B](gazebo.png)
 
-![Obstacle Detection](imgs/obstacles.png)
+![Obstacle Detection](obstacles.png)
 
 ## Conclusion
 
